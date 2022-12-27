@@ -2,12 +2,11 @@ package week1.day1;
 
 public class Student {
 	
-	
+	String collegeName="WCC";
 	public void StudentDetails() {
 		
 		String studentName="Leema Josephine";
 		int rollNo=32;
-		String collegeName="WCC";
 		
 		System.out.println("College Name: " +collegeName);
 		System.out.println("Name of the Student: " +studentName);
